@@ -10,9 +10,10 @@
       "consultedAt": "2026-10-25",
       "summary": "Le salaire minimum cantonal entre dans la Constitution vaudoise. Le 14 juin 2026, le corps électoral vaudois a accepté l'initiative qui l'y inscrit. L'initiative législative et le contre-projet des Autorités ont été refusés. Aucune loi d'application n'entrera donc en vigueur pour l'instant. Le Conseil d'État réunira les partenaires sociaux pour examiner les voies possibles de mise en œuvre.",
       "whatChanges": "Inscrit dans la Constitution, sans loi d'application.",
-      "keyPoints": "Le Conseil d'État réunira les partenaires sociaux pour examiner la mise en œuvre.",
+      "keyPoints": "Le Conseil d'État réunira les partenaires sociaux sur la mise en œuvre.",
       "forHr": "",
-      "themes": "salaire minimum, Vaud"
+      "themes": "salaire minimum, Vaud",
+      "legalRef": "Constitution vaudoise"
     },
     {
       "title": "RHT : indemnisation prolongée jusqu'à 24 mois",
@@ -24,7 +25,8 @@
       "whatChanges": "Jusqu'à 24 mois au lieu de 12, jusqu'au 31 janvier 2027.",
       "keyPoints": "La prolongation est limitée à six mois et sera réévaluée à la fin 2026.",
       "forHr": "",
-      "themes": "RHT, chômage partiel"
+      "themes": "RHT, chômage partiel",
+      "legalRef": "OACI (RS 837.02)"
     },
     {
       "title": "Données salariales : échange automatique dès 2027",
@@ -36,7 +38,8 @@
       "whatChanges": "Loi et ordonnance en vigueur au 1er janvier 2027.",
       "keyPoints": "Elle concerne les frontaliers italiens et le télétravail avec la France.",
       "forHr": "",
-      "themes": "frontaliers, télétravail, salaires"
+      "themes": "frontaliers, télétravail, salaires",
+      "legalRef": "LEADS et ordonnance"
     },
     {
       "title": "RHT : retour progressif aux règles ordinaires",
@@ -46,9 +49,10 @@
       "consultedAt": "2026-10-26",
       "summary": "La RHT revient progressivement aux règles ordinaires. Le Conseil fédéral le prévoit pour la réduction de l'horaire de travail (RHT). La durée maximale d'indemnisation de 24 mois s'applique jusqu'au 31 janvier 2027. En décembre 2026, il décidera d'une éventuelle prolongation dès février 2027. Le délai d'attente d'un jour devrait revenir à 3 jours à partir de 2028.",
       "whatChanges": "Vers un retour à 12 mois d'indemnisation RHT",
-      "keyPoints": "24 mois jusqu'au 31.01.2027 ; décision en décembre ; 3 jours d'attente prévus dès 2028.",
+      "keyPoints": "24 mois jusqu'au 31.01.2027 ; 3 jours d'attente prévus dès 2028.",
       "forHr": "",
-      "themes": "RHT, assurance-chômage"
+      "themes": "RHT, assurance-chômage",
+      "legalRef": "OACI (RS 837.02)"
     },
     {
       "title": "Start-up : temps de travail plus flexible",
@@ -58,9 +62,10 @@
       "consultedAt": "2026-11-02",
       "summary": "Le Conseil fédéral assouplit le temps de travail des start-up. Les règles spéciales visent les start-up et certains de leurs salariés. Elles ont été négociées avec les partenaires sociaux. La base est un nouvel art. 32c de l'ordonnance 2 relative à la loi sur le travail (OLT 2). Entrée en vigueur : 1er décembre 2026.",
       "whatChanges": "Dérogations à la durée du travail dès le 1.12.2026",
-      "keyPoints": "Salariés autonomes, avec participation au capital, sur des projets limités dans le temps.",
+      "keyPoints": "Salariés autonomes, avec part au capital, sur des projets limités.",
       "forHr": "",
-      "themes": "temps de travail, start-up, OLT 2"
+      "themes": "temps de travail, start-up, OLT 2",
+      "legalRef": "Art. 32c OLT 2"
     }
   ],
   "updatedAt": "2026-11-03"
