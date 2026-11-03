@@ -1,0 +1,67 @@
+{
+  "app": "veille-juridique-actualites",
+  "version": 1,
+  "items": [
+    {
+      "title": "Vaud : le salaire minimum entre dans la Constitution",
+      "newsDate": "2026-06-14",
+      "sourceLabel": "État de Vaud, Conseil d'État",
+      "sourceUrl": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/le-conseil-detat-prend-acte-de-lacceptation-du-principe-dun-salaire-minimum-cantonal",
+      "consultedAt": "2026-10-25",
+      "summary": "Le salaire minimum cantonal entre dans la Constitution vaudoise. Le 14 juin 2026, le corps électoral vaudois a accepté l'initiative qui l'y inscrit. L'initiative législative et le contre-projet des Autorités ont été refusés. Aucune loi d'application n'entrera donc en vigueur pour l'instant. Le Conseil d'État réunira les partenaires sociaux pour examiner les voies possibles de mise en œuvre.",
+      "whatChanges": "Inscrit dans la Constitution, sans loi d'application.",
+      "keyPoints": "Le Conseil d'État réunira les partenaires sociaux pour examiner la mise en œuvre.",
+      "forHr": "",
+      "themes": "salaire minimum, Vaud"
+    },
+    {
+      "title": "RHT : indemnisation prolongée jusqu'à 24 mois",
+      "newsDate": "2026-05-27",
+      "sourceLabel": "Conseil fédéral (RHT)",
+      "sourceUrl": "https://www.admin.ch/fr/newnsb/vQyI2THxYsLqX59hbT6Rf",
+      "consultedAt": "2026-10-25",
+      "summary": "Le Conseil fédéral prolonge l'indemnisation RHT. Elle concerne la réduction de l'horaire de travail (RHT). La durée maximale de perception passe de douze à vingt-quatre mois (de 12 à 24 mois). La mesure s'applique à compter du 1er août 2026 et jusqu'au 31 janvier 2027. La prolongation est limitée à six mois afin de permettre une réévaluation à la fin 2026.",
+      "whatChanges": "Jusqu'à 24 mois au lieu de 12, jusqu'au 31 janvier 2027.",
+      "keyPoints": "La prolongation est limitée à six mois et sera réévaluée à la fin 2026.",
+      "forHr": "",
+      "themes": "RHT, chômage partiel"
+    },
+    {
+      "title": "Données salariales : échange automatique dès 2027",
+      "newsDate": "2026-08-19",
+      "sourceLabel": "Conseil fédéral (LEADS)",
+      "sourceUrl": "https://www.admin.ch/fr/newnsb/UtTAM3vaw7qFDOa0ExV12",
+      "consultedAt": "2026-10-25",
+      "summary": "Les données salariales seront échangées automatiquement. Le Conseil fédéral met en vigueur la loi fédérale sur l'échange international automatique de renseignements concernant les données salariales (LEADS). La loi fixe les modalités de l'échange automatique des renseignements concernant les données salariales entre les autorités fiscales cantonales et l'AFC. Elle sert de base légale aux accords conclus avec l'Italie pour les travailleurs frontaliers et avec la France pour le télétravail. La loi et l'ordonnance entreront en vigueur au 1er janvier 2027.",
+      "whatChanges": "Loi et ordonnance en vigueur au 1er janvier 2027.",
+      "keyPoints": "Elle concerne les frontaliers italiens et le télétravail avec la France.",
+      "forHr": "",
+      "themes": "frontaliers, télétravail, salaires"
+    },
+    {
+      "title": "RHT : retour progressif aux règles ordinaires",
+      "newsDate": "2026-10-21",
+      "sourceLabel": "SECO",
+      "sourceUrl": "https://www.seco.admin.ch/fr/newnsb/UsLZDezPNQYF",
+      "consultedAt": "2026-10-26",
+      "summary": "La RHT revient progressivement aux règles ordinaires. Le Conseil fédéral le prévoit pour la réduction de l'horaire de travail (RHT). La durée maximale d'indemnisation de 24 mois s'applique jusqu'au 31 janvier 2027. En décembre 2026, il décidera d'une éventuelle prolongation dès février 2027. Le délai d'attente d'un jour devrait revenir à 3 jours à partir de 2028.",
+      "whatChanges": "Vers un retour à 12 mois d'indemnisation RHT",
+      "keyPoints": "24 mois jusqu'au 31.01.2027 ; décision en décembre ; 3 jours d'attente prévus dès 2028.",
+      "forHr": "",
+      "themes": "RHT, assurance-chômage"
+    },
+    {
+      "title": "Start-up : temps de travail plus flexible",
+      "newsDate": "2026-10-28",
+      "sourceLabel": "SECO",
+      "sourceUrl": "https://www.seco.admin.ch/fr/newnsb/Iud3ocFMTVQE",
+      "consultedAt": "2026-11-02",
+      "summary": "Le Conseil fédéral assouplit le temps de travail des start-up. Les règles spéciales visent les start-up et certains de leurs salariés. Elles ont été négociées avec les partenaires sociaux. La base est un nouvel art. 32c de l'ordonnance 2 relative à la loi sur le travail (OLT 2). Entrée en vigueur : 1er décembre 2026.",
+      "whatChanges": "Dérogations à la durée du travail dès le 1.12.2026",
+      "keyPoints": "Salariés autonomes, avec participation au capital, sur des projets limités dans le temps.",
+      "forHr": "",
+      "themes": "temps de travail, start-up, OLT 2"
+    }
+  ],
+  "updatedAt": "2026-11-03"
+}
