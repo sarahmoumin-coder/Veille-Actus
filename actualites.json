@@ -3,6 +3,34 @@
   "version": 1,
   "items": [
     {
+      "title": "Vaud : salaires de l'État indexés de 1,5 % en 2027",
+      "newsDate": "2026-11-04",
+      "legalRef": "LPers (personnel État VD)",
+      "sourceLabel": "État de Vaud, Conseil d'État",
+      "sourceUrl": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/le-conseil-detat-accorde-la-pleine-indexation-des-salaires-de-la-fonction-publique-en-2027",
+      "consultedAt": "2026-11-08",
+      "summary": "Le Conseil d'État indexe pleinement les salaires de la fonction publique en 2027. L'indexation est de 1,5 % au 1er janvier 2027. Elle concerne l'administration cantonale vaudoise, le CHUV et le secteur parapublic. Elle se base sur l'indice des prix à la consommation (IPC) d'octobre 2026. Les annuités sont aussi maintenues.",
+      "whatChanges": "+1,5 % au 1er janvier 2027",
+      "plain": "Les salaires du personnel de l'État suivent la hausse des prix.",
+      "keyPoints": "Annuités maintenues en 2027",
+      "forHr": "",
+      "themes": "salaires, fonction publique, Vaud"
+    },
+    {
+      "title": "Chômage : chercher un emploi avant de s'inscrire",
+      "newsDate": "2026-11-02",
+      "legalRef": "Loi sur l'assurance-chômage",
+      "sourceLabel": "État de Vaud (DGEM)",
+      "sourceUrl": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/assurance-chomage-vaud-et-neuchatel-sunissent-pour-sensibiliser-sur-limportance-danticiper-les-recherches-demploi-avant-linscription-a-lorp",
+      "consultedAt": "2026-11-08",
+      "summary": "Il faut chercher un emploi avant de s'inscrire au chômage. La loi sur l'assurance-chômage l'impose dès que la fin du travail est connue. Cela vaut après un licenciement, une démission, la fin d'un contrat à durée déterminée ou d'une formation. Sinon, les indemnités peuvent être suspendues. En 2025, près d'une personne sur 5 nouvellement inscrite n'avait pas assez cherché. Vaud et Neuchâtel lancent une campagne commune en novembre.",
+      "whatChanges": "Campagne Vaud-Neuchâtel en novembre",
+      "plain": "Dès l'annonce de la fin du contrat, postulez et gardez les preuves.",
+      "keyPoints": "Sinon, indemnités suspendues",
+      "forHr": "",
+      "themes": "chômage, fin de contrat, recherches d'emploi"
+    },
+    {
       "title": "Vaud : le salaire minimum entre dans la Constitution",
       "newsDate": "2026-06-14",
       "sourceLabel": "État de Vaud, Conseil d'État",
@@ -73,5 +101,5 @@
       "legalRef": "Art. 32c OLT 2"
     }
   ],
-  "updatedAt": "2026-11-03"
+  "updatedAt": "2026-11-08"
 }
